@@ -1,11 +1,16 @@
-### Hi there 👋
-I'm Diana Martínez (@diana_nerd on twitter), FullStack Developer, UI Designer & Robotic Enthusiast.
+### Hello there 👋
+I'm Diana Martínez (@diana_nerd on twitter).
+
+FullStack Developer, UI Designer & Robotic Enthusiast.
+
 Founder at [Robots LatAm](https://twitter.com/robots_latam).
 
 - 🌱 I’m currently learning: ReactJS and React Native
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: JavaScript, Robotics and Design Systems.
 - 📫 How to reach me: Send me a DM on Twitter.
+
+My personal web site is: www.diananerd.com
 
 <!-- Actual text -->
 
