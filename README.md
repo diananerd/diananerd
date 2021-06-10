@@ -5,7 +5,7 @@ FullStack Developer, UI Designer & Robotic Enthusiast.
 
 Founder at [Robots LatAm](https://twitter.com/robots_latam).
 
-- 🌱 I’m currently learning: ReactJS and React Native
+- 🌱 I’m currently learning: Vue 3 and p5js
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: JavaScript, Embedded Systems, Robotics and Design Systems.
 - 📫 How to reach me: Send me a DM on Twitter.
