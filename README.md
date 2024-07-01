@@ -1,16 +1,14 @@
 ### Hello there 👋
 I'm Diana Martínez (@diana_nerd on twitter).
 
-FullStack Developer, UI Designer & Robotic Enthusiast.
+FullStack Developer & Robotic Enthusiast.
 
-Founder at [Robots LatAm](https://twitter.com/robots_latam).
-
-- 🌱 I’m currently learning: Vue 3 and p5js
+- 🌱 I’m currently learning: Rust
 - 😄 Pronouns: She/Her
-- 💬 Ask me about: JavaScript, Embedded Systems, Robotics and Design Systems.
+- 💬 Ask me about: C, JavaScript, Embedded Systems, Robotics and Design Systems.
 - 📫 How to reach me: Send me a DM on Twitter.
 
-My personal web site is: www.diananerd.com
+My personal web site is: [dnrd.dev](https://dnrd.dev)
 <!--
 **nerddiana/nerddiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
