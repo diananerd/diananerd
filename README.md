@@ -1,12 +1,12 @@
 ### Hello there 👋
-I'm Diana Martínez (@diana_nerd on twitter).
+I'm Diana Martínez (Diana Nerd).
 
 FullStack Developer & Robotic Enthusiast.
 
 - 🌱 I’m currently learning: Rust
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: C, JavaScript, Embedded Systems, Robotics and Design Systems.
-- 📫 How to reach me: Send me a DM on Twitter.
+- 📫 How to reach me: Send me a DM on Instagram.
 
 My personal web site is: [dnrd.dev](https://dnrd.dev)
 <!--
